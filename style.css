@@ -85,7 +85,7 @@ footer{
    position: relative;
    padding: 50px;
 }
-.Contactinfo ul{
+.ContactInfo ul{
     position: relative;
     right: 6%;
     list-style: none;
@@ -106,10 +106,9 @@ footer{
         position: relative;
         top: 30px;
     }
-    .Contactinfo{
+    .ContactInfo{
         position: relative;
        margin: 0 20%;
-
     }
 }
 @media all and (min-width:768px) and (max-width:1019px){
